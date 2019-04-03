@@ -1,10 +1,10 @@
 from random import randint, uniform,random
 
 # Aleatorio de numeros enteros
-print randint(0,10)
+print randint(0,100)
 
-# Aleatorio de numeros decimales
-print uniform(0,10)
+# Aleatorio de numeros decimales 
+print uniform(0,1000)
 
 # Aleatorio entre 0 y 1
 print random()
